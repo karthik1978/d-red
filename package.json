@@ -1,0 +1,11 @@
+{
+  "name": "d-red",
+  "version": "1.0.0",
+  "description": "Distribution Redefined",
+  "main": "server.js",
+  "author": "Karthik Ramachandran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
